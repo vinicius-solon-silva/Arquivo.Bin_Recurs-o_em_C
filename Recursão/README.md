@@ -1,3 +1,3 @@
 # Função Recursiva
 
-Mostra o recultado de um cálculo utilizando recursão.
+Mostra o resultado de um cálculo utilizando recursão.
