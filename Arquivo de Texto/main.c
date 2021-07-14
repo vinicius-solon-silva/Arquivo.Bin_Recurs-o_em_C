@@ -1,9 +1,3 @@
-/*---Autores--- 
-Matheus Bosco  - RA: 2760482011034
-Vinicius Solon - RA: 2760482011020
-Rafael Neder   - RA: 2760482011026
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
